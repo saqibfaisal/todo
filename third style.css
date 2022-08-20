@@ -3,6 +3,7 @@
     border-radius: 15px;
     height: 100vh;
     border-style: solid;
+    overflow: scroll ;
     
 }
 .per{
